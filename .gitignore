@@ -1,0 +1,8 @@
+/bin/
+/target/
+/.settings/
+/log/
+/.classpath
+/.project
+/Java Launcher.exe
+/mva-bd-1.0-SNAPSHOT.jar
